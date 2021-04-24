@@ -14,14 +14,10 @@ int main()
 	int Anelar;
 	int Minimo;
 	int DIGITAL;
-	int	("Direita"||"Esquerda");
 	&Ref Mão;
 	Mão("Direita"?||"Esquerda"?)	
-	int eCPF;
 	*(*Digital)ptr;
-	char(LC_MONETARY:__cpp_user_defined_literals); 
-	char (result);
-	std::string char(register"CPF");
+	std::string char(Digital);
 	std::string << "Assinatura" << register"assinatura" << system"Base" << std::endl ; 
 	std::cout << "Digital: " << Polegar << Digital"MãoDireita" << std::endl;
 	std::scanf >> Digital(true&&Polegar);
@@ -73,9 +69,8 @@ int main()
 		Digital{MinimoMãoEsquerda};
 		return Digital;
 	};
-	register"CPF"; 
-	result(transaction_safe:eCPF,Funds/_Valid_*%",0001"++);
-	system("eCPF");
-	return (register.CPF);
+	Digital;
+	system("scandisk");
+	return (Digital);
 
 };
